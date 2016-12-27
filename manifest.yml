@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: V102-C12-Ex03
+  host: V102-C12-Ex03
+  disk_quota: 1024M
